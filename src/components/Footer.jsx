@@ -1,7 +1,7 @@
 export default function Footer(){
     return(
         <footer>
-            <h1>Título!</h1>
+            <p>Desenvolvedor: Gabriel Pina</p>
         </footer>
     );
 }
