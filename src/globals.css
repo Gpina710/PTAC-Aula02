@@ -1,8 +1,11 @@
 header{
     height: 100px;
-    background-color: rgb(67, 20, 111);
+    background-color: rgb(105, 69, 37);
 }
 footer{
     height: 150px;
-    background-color: rgb(67, 20, 111);
+    background-color: rgb(105, 69, 37);
+}
+input{
+    background-color: rgb(218, 188, 145);
 }
